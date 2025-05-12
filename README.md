@@ -1,7 +1,6 @@
 # 🚀 Infratool: Open Infrastructure as Code Library
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/manyjuice/infratool/pulls)
-[![Discord](https://img.shields.io/discord/your-server-id)](https://discord.gg/PM8qJ45X)
 
 > Community-driven IaC templates to deploy and manage software **faster, smarter, easier** across servers and containers.
 
@@ -23,7 +22,7 @@ git clone https://github.com/manyjuice/infratool.git
 
 ## 🤝 How to Contribute
 
-1. **First Timers**: Pick a [good first issue](https://github.com/manyjuice/infratool/issues/new)
+1. **First Timers**: Create a [good first issue](https://github.com/manyjuice/infratool/issues/new)
 2. **Contributors**: Submit PRs for new templates or existing code developement
 3. **Maintainers**: First 5 substantial PRs (100+ LOC) get maintainer status
 
