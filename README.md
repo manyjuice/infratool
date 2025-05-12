@@ -26,7 +26,7 @@ git clone https://github.com/manyjuice/infratool.git
 2. **Contributors**: Submit PRs for new templates or existing code developement
 3. **Maintainers**: First 5 substantial PRs (100+ LOC) get maintainer status
 
-# Our PR flow:
+## Our PR flow:
 1. AI review
 2. Human review
 3. Community testing
