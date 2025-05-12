@@ -22,9 +22,9 @@ git clone https://github.com/manyjuice/infratool.git
 
 ## 🤝 How to Contribute
 
-1. **First Timers**: Create a [good first issue](https://github.com/manyjuice/infratool/issues/new)
-2. **Contributors**: Submit PRs for new templates or existing code developement
-3. **Maintainers**: First 5 substantial PRs (100+ LOC) get maintainer status
+**First Timers**: Create a [good first issue](https://github.com/manyjuice/infratool/issues/new)
+**Contributors**: Submit PRs for new templates or existing code developement
+**Maintainers**: First 5 substantial PRs (100+ LOC) get maintainer status
 
 ## Our PR flow:
 1. AI review
@@ -40,9 +40,6 @@ We embrace AI assistance responsibly:
 
 ## 🌍 Community
 
-Join us to:
-- Vote on the further priorities
-- Get help with deployments
-- Connect with other DevOps engineers
+Join us to vote on the further priorities, get help with deployments, connect with other DevOps engineers
 
 [![Discord](https://img.shields.io/badge/chat-on%20Discord-7289DA)](https://discord.gg/PM8qJ45X)
